@@ -1,6 +1,6 @@
 # Car Rental DB
 
-📄 [Full Report](./Car Rental Final Report.pdf)
+📄 [Full Report](./Car-Rental-Final-Report.pdf)
 
 This project models a database for a car rental service:
 - Entities: Customers, Vehicles, Reservations, Payments.
