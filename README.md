@@ -7,17 +7,17 @@ This repository contains my DBMS coursework projects. Each project includes an E
 ### 1. Car Rental DB
 - Designed schema for a car rental platform (reservations, fleet, locations, payments).
 - Includes ERD, relational schema, sample queries.
-- [View project](./projects/car-rental-db)
+- [View project](./projects/car-rental-db/Car-Rental-Final-Report.pdf)
 
 ### 2. E-commerce Flowers DB
 - E-commerce database for customers, carts, orders, favorites.
 - Normalized to 3NF with seed data.
-- [View project](./projects/ecommerce-flowers-db)
+- [View project](./projects/ecommerce-flowers-ER/Entity-Relationship-normalization.pdf)  
 
 ### 3. HR/Projects DB
 - Classic JOB / EMPLOYEE / PROJECT / ASSIGNMENT schema.
 - Includes constraints, joins, and reporting queries.
-- [View project](./projects/hr-projects-db)  
+- [View project](./projects/DML-queries/SQL-queries.pdf)  
 
 ### 4. Auto Insurance Data Warehouse (Star Schema)
 
