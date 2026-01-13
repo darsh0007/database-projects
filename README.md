@@ -17,7 +17,7 @@ This repository contains my DBMS coursework projects. Each project includes an E
 ### 3. HR/Projects DB
 - Classic JOB / EMPLOYEE / PROJECT / ASSIGNMENT schema.
 - Includes constraints, joins, and reporting queries.
-- [View project](./projects/hr-projects-db)
+- [View project](./projects/hr-projects-db)  
 
 ---
 
