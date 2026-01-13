@@ -19,6 +19,15 @@ This repository contains my DBMS coursework projects. Each project includes an E
 - Includes constraints, joins, and reporting queries.
 - [View project](./projects/hr-projects-db)  
 
+### 4. Auto Insurance Data Warehouse (Star Schema)
+
+<img width="1156" height="962" alt="Star_Schema png" src="https://github.com/user-attachments/assets/0aebcda1-7c58-484d-b41a-308214abe5d6" />
+
+- Designed a dimensional model (Star Schema) for analyzing insurance risk factors and claim severity.
+- Features a central Claims Fact Table linked to Driver, Vehicle, Location, Coverage, and Calendar dimensions.
+- Includes ETL strategy for integrating internal policy data with external risk indicators.
+- [View project](./Star_Schema_ASS.pdf)
+  
 ---
 
 ## 📝 Notes
