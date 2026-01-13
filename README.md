@@ -26,7 +26,7 @@ This repository contains my DBMS coursework projects. Each project includes an E
 - Designed a dimensional model (Star Schema) for analyzing insurance risk factors and claim severity.
 - Features a central Claims Fact Table linked to Driver, Vehicle, Location, Coverage, and Calendar dimensions.
 - Includes ETL strategy for integrating internal policy data with external risk indicators.
-- [View project](./Star_Schema_ASS.pdf)
+- [View project](./projects/Star_Schema_ASS.pdf)   
   
 ---
 
